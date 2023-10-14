@@ -1,0 +1,23 @@
+.main-form{
+    background: #3a7bd5;
+}
+.form-div{
+    background: #a8c0ff;
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.5);
+    transition: 0.6s ease;
+}
+.form-div:hover{
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.6);
+}
+input{
+    border: none;
+    outline: none;
+    border: 1px solid #ddd;
+    color: #2c2c2c;
+    border-radius: 4px;
+    padding: 0.5rem;
+}
+button.login-btn{
+    background-color: #3a7bd5;
+    padding: 0.5rem;
+}
